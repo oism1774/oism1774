@@ -23,10 +23,10 @@ I am a Technical Specialist transitioning from a creative background in Digital 
 
     🎨 Past Life: Experienced UX/UI & Brand Designer (I make sure my terminal looks as good as my configs).
 
-📊 My Home Lab Stats
+📊 My Tech Stack:
 
-    Host: Hetzner VPS
-
+    Host: Hetzner VPS, Proxmox VE
+    
     Services: PostgreSQL, NocoDB, Dockge, n8n
 
     Connectivity: Securely exposed via Cloudflare tunnel & WireGuard VPN
