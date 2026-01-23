@@ -34,6 +34,7 @@ I am a Technical Specialist transitioning from a creative background in Digital 
  📫 Connect with me:
   
   oism1774@gmail.com
+  
   https://www.linkedin.com/in/oism1774
 
 "Simplicity is the soul of efficiency."
