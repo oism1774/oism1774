@@ -27,7 +27,7 @@ I am a Technical Specialist transitioning from a creative background in Digital 
 
     Host: Hetzner VPS, Proxmox VE
     
-    Services: PostgreSQL, NocoDB, Dockge, n8n
+    Services: PostgreSQL, Dockge, Prometheus, Grafana
 
     Connectivity: Securely exposed via Cloudflare tunnel & WireGuard VPN
 
